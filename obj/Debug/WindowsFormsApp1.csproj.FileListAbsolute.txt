@@ -1,0 +1,16 @@
+D:\.Locker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\.Locker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\.Locker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EncryptedTextLocker.resources
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileLocker.resources
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PassLocker.resources
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PersoanlLocker.resources
+D:\.Locker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
